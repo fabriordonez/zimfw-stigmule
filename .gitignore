@@ -1,0 +1,6 @@
+*.swp
+*.zwc
+*.zwc.old
+.DS_Store
+.idea/
+
